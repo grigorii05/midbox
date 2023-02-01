@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{0344261E-3478-4911-845A-5FE13E27B611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{2FE9083E-B29D-4ED9-BD70-95EBD8A5AE0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{8891E51D-5EBE-4CC6-BCBA-F751ECDC4A74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0344261E-3478-4911-845A-5FE13E27B611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0344261E-3478-4911-845A-5FE13E27B611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0344261E-3478-4911-845A-5FE13E27B611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0344261E-3478-4911-845A-5FE13E27B611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE9083E-B29D-4ED9-BD70-95EBD8A5AE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE9083E-B29D-4ED9-BD70-95EBD8A5AE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE9083E-B29D-4ED9-BD70-95EBD8A5AE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE9083E-B29D-4ED9-BD70-95EBD8A5AE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8891E51D-5EBE-4CC6-BCBA-F751ECDC4A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8891E51D-5EBE-4CC6-BCBA-F751ECDC4A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8891E51D-5EBE-4CC6-BCBA-F751ECDC4A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8891E51D-5EBE-4CC6-BCBA-F751ECDC4A74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3A4520F-957A-4701-8571-3A85B65C34F8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+D:\Стажировка\Mindbox\ConsoleApp1\MyLib\bin\Debug\net6.0\MyLib.deps.json
+D:\Стажировка\Mindbox\ConsoleApp1\MyLib\bin\Debug\net6.0\MyLib.dll
+D:\Стажировка\Mindbox\ConsoleApp1\MyLib\bin\Debug\net6.0\MyLib.pdb
+D:\Стажировка\Mindbox\ConsoleApp1\MyLib\obj\Debug\net6.0\MyLib.csproj.AssemblyReference.cache
+D:\Стажировка\Mindbox\ConsoleApp1\MyLib\obj\Debug\net6.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стажировка\Mindbox\ConsoleApp1\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfoInputs.cache
+D:\Стажировка\Mindbox\ConsoleApp1\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfo.cs
+D:\Стажировка\Mindbox\ConsoleApp1\MyLib\obj\Debug\net6.0\MyLib.csproj.CoreCompileInputs.cache
+D:\Стажировка\Mindbox\ConsoleApp1\MyLib\obj\Debug\net6.0\MyLib.dll
+D:\Стажировка\Mindbox\ConsoleApp1\MyLib\obj\Debug\net6.0\refint\MyLib.dll
+D:\Стажировка\Mindbox\ConsoleApp1\MyLib\obj\Debug\net6.0\MyLib.pdb
+D:\Стажировка\Mindbox\ConsoleApp1\MyLib\obj\Debug\net6.0\ref\MyLib.dll
